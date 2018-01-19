@@ -1,0 +1,18 @@
+html, body, .container, .roto {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.roto {
+  background-image: url('/images/5171.png');
+  background-position: center;
+  background-size: cover;
+}
